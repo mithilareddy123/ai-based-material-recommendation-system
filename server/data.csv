@@ -1,0 +1,1092 @@
+Environment,Required_Strength,Durability_Priority,Eco_Preference,Application_Area,Max_Lead_Time,Material_Name
+Coastal,High,9,Yes,Bridge Support,30,Stainless Steel 316
+Dry,Medium,6,Yes,Interior Wall Frame,10,Plywood
+Humid,Low,5,Yes,Furniture,7,Teak Wood
+Dry,High,8,No,Gear Components,20,Carbon Steel
+Coastal,Medium,7,Yes,Window Frames,15,Aluminum 6061
+Humid,Medium,7,No,Water Pipes,12,PVC
+Dry,High,9,No,Automotive Parts,25,Carbon Fiber Composite
+Coastal,High,10,Yes,Marine Equipment,35,Titanium Grade 5
+Humid,Low,4,Yes,Ceiling Panels,10,Fiberglass
+Dry,Medium,6,Yes,Roofing Sheets,15,Galvanized Steel
+Humid,High,8,Yes,Chemical Storage Tanks,30,HDPE
+Coastal,Medium,6,Yes,Railing Structures,20,Aluminum 6061
+Dry,Low,3,Yes,Packaging,5,Medium Density Fiberboard
+Humid,High,9,No,Pump Housings,18,Cast Iron
+Dry,Medium,7,No,Electrical Enclosures,14,ABS Plastic
+Coastal,High,9,Yes,Offshore Platforms,40,Stainless Steel 316
+Humid,Low,4,Yes,Decorative Panels,10,Engineered Wood
+Dry,High,10,No,Aerospace Frame,40,Aluminum 6061
+Humid,Medium,5,Yes,Floor Tiles,12,Ceramic
+Coastal,Medium,8,No,Condenser Coils,22,Copper
+Dry,High,7,No,Hand Tools,20,Carbon Steel
+Humid,Medium,6,Yes,Door Frames,14,Engineered Wood
+Dry,Low,2,Yes,Temporary Shelters,5,Plywood
+Coastal,Low,5,Yes,Window Screens,12,Fiberglass
+Humid,High,10,No,Heavy Duty Shelving,30,Stainless Steel 304
+Dry,Medium,6,Yes,Furniture,8,Medium Density Fiberboard
+Coastal,Medium,7,Yes,Balcony Railings,15,Aluminum 6061
+Humid,Low,3,Yes,Panel Boards,7,Medium Density Fiberboard
+Dry,High,9,No,Engine Blocks,28,Cast Iron
+Humid,Medium,6,Yes,Drainage Pipes,10,PVC
+Dry,Low,4,Yes,Display Boards,6,Polycarbonate
+Coastal,High,10,Yes,Oil Rig Structures,45,Stainless Steel 316
+Humid,Medium,7,Yes,Greenhouses,10,Polycarbonate
+Dry,High,9,Yes,Machine Parts,25,Carbon Steel
+Coastal,Medium,6,Yes,Sign Boards,15,Aluminum 6061
+Dry,Low,2,Yes,Event Staging,4,Plywood
+Humid,High,9,No,Industrial Fans,30,Stainless Steel 304
+Dry,Medium,5,Yes,Insulation Panels,7,Fiberglass
+Coastal,High,10,Yes,Underwater Pipelines,40,Stainless Steel 316
+Humid,Low,4,Yes,Interior Decor,6,Engineered Wood
+Dry,High,8,Yes,Automotive Housings,22,Aluminum 6061
+Coastal,Medium,7,No,Cable Trays,20,Galvanized Steel
+Dry,Low,3,Yes,Festival Stalls,5,Plywood
+Humid,Medium,6,Yes,Sanitary Fittings,14,Stainless Steel 304
+Coastal,Low,5,Yes,Roof Gutters,12,Aluminum 6061
+Dry,High,9,No,Precision Instruments,30,Brass
+Humid,Medium,5,Yes,False Ceiling,8,Medium Density Fiberboard
+Coastal,High,9,Yes,Ship Hulls,35,Stainless Steel 316
+Dry,Medium,6,Yes,Storage Cabinets,12,Plywood
+Humid,Low,4,Yes,Indoor Plants Holders,6,Ceramic
+Coastal,Medium,8,Yes,Heat Exchangers,25,Copper
+Dry,High,9,No,Defense Equipment,40,Titanium Grade 5
+Humid,Low,2,No,Offshore Platforms,18,Fiberglass
+Humid,Low,10,Yes,Underwater Pipelines,31,Teak Wood
+Coastal,Low,5,Yes,Machine Parts,42,Plywood
+Humid,Low,10,No,Electrical Enclosures,32,Fiberglass
+Dry,Low,4,No,Door Frames,21,Galvanized Steel
+Coastal,Medium,3,Yes,Heavy Duty Shelving,10,Plywood
+Dry,High,6,Yes,Ship Hulls,33,Aluminum 6061
+Coastal,Medium,3,No,Cable Trays,43,Fiberglass
+Humid,Low,3,Yes,Sanitary Fittings,18,Ceramic
+Dry,Low,5,Yes,Heavy Duty Shelving,21,PVC
+Humid,Medium,4,No,Temporary Shelters,17,Plywood
+Dry,High,3,Yes,Event Staging,19,HDPE
+Dry,Medium,6,Yes,Roof Gutters,24,Ceramic
+Coastal,Low,2,No,Balcony Railings,21,Aluminum 6061
+Coastal,High,7,Yes,Festival Stalls,35,Medium Density Fiberboard
+Humid,Medium,4,No,Ceiling Panels,19,Stainless Steel 316
+Humid,High,6,No,Underwater Pipelines,29,Fiberglass
+Coastal,Low,10,No,Water Pipes,7,Titanium Grade 5
+Coastal,High,4,No,Interior Decor,8,Stainless Steel 304
+Dry,High,9,No,Industrial Fans,4,Stainless Steel 304
+Humid,Low,10,No,Heat Exchangers,45,Engineered Wood
+Coastal,Medium,8,Yes,Display Boards,4,Medium Density Fiberboard
+Humid,Medium,10,Yes,Machine Parts,10,Aluminum 6061
+Dry,High,10,Yes,Roofing Sheets,27,Plywood
+Coastal,High,10,Yes,Interior Decor,24,Stainless Steel 316
+Coastal,Low,7,No,Offshore Platforms,7,Stainless Steel 316
+Humid,Low,3,No,Window Frames,38,Ceramic
+Coastal,Low,9,Yes,Decorative Panels,37,Stainless Steel 316
+Dry,Low,10,Yes,False Ceiling,23,Medium Density Fiberboard
+Humid,High,7,No,Sign Boards,32,Titanium Grade 5
+Coastal,Low,3,No,Interior Wall Frame,41,Plywood
+Coastal,High,5,Yes,Window Frames,44,Carbon Steel
+Coastal,Low,2,No,Window Frames,36,Stainless Steel 316
+Dry,High,9,Yes,Event Staging,12,Medium Density Fiberboard
+Humid,High,9,Yes,Defense Equipment,34,Titanium Grade 5
+Dry,Low,3,Yes,Sanitary Fittings,31,Plywood
+Dry,Medium,9,Yes,Roof Gutters,45,Galvanized Steel
+Coastal,Low,8,No,Automotive Parts,19,Medium Density Fiberboard
+Coastal,High,9,Yes,Engine Blocks,15,Aluminum 6061
+Dry,Low,3,No,Industrial Fans,10,Carbon Steel
+Humid,High,2,Yes,Indoor Plants Holders,19,HDPE
+Dry,Medium,9,Yes,Balcony Railings,7,HDPE
+Dry,Low,8,No,Defense Equipment,33,Ceramic
+Dry,High,10,No,Roofing Sheets,16,Ceramic
+Coastal,Low,10,Yes,Storage Cabinets,24,Carbon Steel
+Coastal,High,9,Yes,Gear Components,36,PVC
+Coastal,Low,3,Yes,Balcony Railings,11,Stainless Steel 304
+Coastal,High,2,Yes,Panel Boards,41,Stainless Steel 304
+Humid,Medium,6,Yes,Sanitary Fittings,24,Stainless Steel 316
+Dry,Medium,4,No,Display Boards,24,Plywood
+Coastal,Low,9,Yes,Window Frames,38,Cast Iron
+Humid,Medium,4,No,Window Frames,19,Fiberglass
+Dry,Low,9,No,Automotive Housings,45,Carbon Steel
+Coastal,High,10,No,Sanitary Fittings,10,Fiberglass
+Dry,Low,3,Yes,Aerospace Frame,22,Stainless Steel 316
+Coastal,High,7,Yes,Roof Gutters,44,Engineered Wood
+Humid,Medium,6,Yes,Water Pipes,44,Medium Density Fiberboard
+Dry,Low,2,No,Heat Exchangers,12,Aluminum 6061
+Dry,Low,9,No,Industrial Fans,4,Titanium Grade 5
+Coastal,High,4,Yes,Window Screens,41,Plywood
+Coastal,Medium,4,Yes,Condenser Coils,27,Brass
+Coastal,Medium,5,Yes,Sanitary Fittings,10,Plywood
+Humid,Medium,4,Yes,Chemical Storage Tanks,15,Aluminum 6061
+Coastal,Low,7,No,Sanitary Fittings,19,Aluminum 6061
+Coastal,High,3,No,Furniture,34,ABS Plastic
+Coastal,Medium,7,No,Defense Equipment,18,ABS Plastic
+Coastal,High,5,No,Door Frames,21,Aluminum 6061
+Dry,Medium,10,No,Roof Gutters,38,Engineered Wood
+Coastal,Low,6,Yes,Underwater Pipelines,20,Teak Wood
+Coastal,High,8,No,Ship Hulls,24,Medium Density Fiberboard
+Humid,High,3,No,Insulation Panels,16,Engineered Wood
+Coastal,High,8,Yes,Sign Boards,38,Stainless Steel 304
+Humid,High,5,No,Engine Blocks,8,Plywood
+Dry,High,7,Yes,Ship Hulls,23,Polycarbonate
+Dry,High,8,No,Balcony Railings,22,Plywood
+Coastal,Low,8,No,Roof Gutters,15,Engineered Wood
+Humid,Medium,8,Yes,Condenser Coils,22,Cast Iron
+Dry,High,7,No,Drainage Pipes,32,Stainless Steel 304
+Coastal,High,9,Yes,Sanitary Fittings,9,Ceramic
+Humid,High,7,Yes,Indoor Plants Holders,19,Stainless Steel 304
+Dry,Low,5,Yes,Interior Wall Frame,6,Stainless Steel 316
+Dry,High,3,No,Panel Boards,44,Stainless Steel 304
+Coastal,High,8,No,Balcony Railings,19,Galvanized Steel
+Humid,High,2,Yes,Heat Exchangers,31,ABS Plastic
+Coastal,High,10,No,Gear Components,39,Stainless Steel 316
+Coastal,Medium,4,No,Sanitary Fittings,37,Plywood
+Humid,Medium,9,No,Industrial Fans,32,HDPE
+Humid,Medium,9,No,Indoor Plants Holders,19,Aluminum 6061
+Dry,High,9,Yes,Aerospace Frame,32,Aluminum 6061
+Humid,Medium,5,No,Door Frames,24,Aluminum 6061
+Coastal,Low,4,Yes,Heavy Duty Shelving,13,Brass
+Coastal,Low,8,No,Door Frames,38,PVC
+Dry,Low,5,No,Heavy Duty Shelving,41,Aluminum 6061
+Coastal,High,8,No,Bridge Support,26,Copper
+Dry,Medium,10,Yes,Greenhouses,18,Aluminum 6061
+Dry,Medium,2,No,Door Frames,29,Medium Density Fiberboard
+Coastal,Medium,4,Yes,Balcony Railings,41,Stainless Steel 304
+Humid,Low,3,No,Ceiling Panels,33,Aluminum 6061
+Coastal,Medium,8,No,Pump Housings,33,Carbon Steel
+Dry,Medium,6,No,Decorative Panels,9,Polycarbonate
+Coastal,High,10,Yes,Temporary Shelters,18,Galvanized Steel
+Coastal,High,2,Yes,Offshore Platforms,16,Plywood
+Humid,Low,5,Yes,Oil Rig Structures,11,Stainless Steel 304
+Coastal,Medium,6,No,Chemical Storage Tanks,42,Stainless Steel 316
+Humid,High,3,Yes,Condenser Coils,10,Fiberglass
+Coastal,Medium,8,No,False Ceiling,16,Aluminum 6061
+Humid,High,5,Yes,Precision Instruments,23,Stainless Steel 304
+Humid,Low,2,No,Event Staging,31,Plywood
+Dry,Low,10,No,Bridge Support,30,Stainless Steel 316
+Coastal,Medium,7,No,False Ceiling,13,Medium Density Fiberboard
+Coastal,High,10,No,Automotive Housings,38,Ceramic
+Dry,Medium,8,No,Hand Tools,19,PVC
+Dry,Medium,5,No,Insulation Panels,43,Plywood
+Dry,Medium,2,No,Hand Tools,15,Stainless Steel 316
+Coastal,Medium,6,No,Aerospace Frame,42,Aluminum 6061
+Dry,High,2,Yes,Water Pipes,19,Medium Density Fiberboard
+Dry,Medium,10,Yes,Precision Instruments,34,Galvanized Steel
+Humid,Medium,9,Yes,Water Pipes,22,ABS Plastic
+Dry,High,5,No,Sanitary Fittings,41,Fiberglass
+Dry,High,10,No,Engine Blocks,39,Engineered Wood
+Dry,High,9,No,Condenser Coils,20,ABS Plastic
+Coastal,High,5,No,Marine Equipment,38,Plywood
+Humid,Low,5,Yes,Storage Cabinets,34,Aluminum 6061
+Humid,High,10,No,Automotive Parts,16,Ceramic
+Coastal,Medium,4,No,Bridge Support,38,Fiberglass
+Dry,Low,2,No,Precision Instruments,12,Aluminum 6061
+Dry,Low,2,No,Oil Rig Structures,34,Aluminum 6061
+Dry,Low,2,No,Oil Rig Structures,11,Aluminum 6061
+Dry,Medium,3,Yes,Roofing Sheets,13,Titanium Grade 5
+Humid,Medium,3,Yes,Marine Equipment,39,Plywood
+Dry,High,5,No,Drainage Pipes,32,Copper
+Humid,Medium,6,Yes,Automotive Housings,10,Plywood
+Coastal,High,5,No,Sanitary Fittings,9,HDPE
+Coastal,Low,10,Yes,Chemical Storage Tanks,4,Aluminum 6061
+Dry,High,9,No,Furniture,18,Ceramic
+Humid,Medium,9,Yes,Roof Gutters,18,Engineered Wood
+Humid,High,5,No,Marine Equipment,38,ABS Plastic
+Humid,Low,6,Yes,Window Frames,7,HDPE
+Dry,High,6,No,Marine Equipment,33,Aluminum 6061
+Dry,High,8,No,Machine Parts,38,Stainless Steel 316
+Dry,Low,2,No,Storage Cabinets,24,Stainless Steel 316
+Dry,Low,3,Yes,Roof Gutters,40,Fiberglass
+Coastal,High,6,Yes,Indoor Plants Holders,15,Polycarbonate
+Humid,High,9,No,Railing Structures,41,Medium Density Fiberboard
+Humid,Medium,3,No,Temporary Shelters,30,Engineered Wood
+Dry,High,3,Yes,Door Frames,30,Aluminum 6061
+Dry,Medium,8,Yes,Display Boards,9,Carbon Steel
+Dry,Medium,3,No,Machine Parts,4,Plywood
+Humid,Medium,8,Yes,Packaging,37,Fiberglass
+Humid,Medium,9,Yes,Pump Housings,21,Plywood
+Coastal,High,9,Yes,Bridge Support,30,Stainless Steel 316
+Dry,Medium,6,Yes,Interior Wall Frame,10,Plywood
+Humid,Low,5,Yes,Furniture,7,Teak Wood
+Dry,High,8,No,Gear Components,20,Carbon Steel
+Coastal,Medium,7,Yes,Window Frames,15,Aluminum 6061
+Humid,Medium,7,No,Water Pipes,12,PVC
+Dry,High,9,No,Automotive Parts,25,Carbon Fiber Composite
+Coastal,High,10,Yes,Marine Equipment,35,Titanium Grade 5
+Humid,Low,4,Yes,Ceiling Panels,10,Fiberglass
+Dry,Medium,6,Yes,Roofing Sheets,15,Galvanized Steel
+Humid,High,8,Yes,Chemical Storage Tanks,30,HDPE
+Coastal,Medium,6,Yes,Railing Structures,20,Aluminum 6061
+Dry,Low,3,Yes,Packaging,5,Medium Density Fiberboard
+Humid,High,9,No,Pump Housings,18,Cast Iron
+Dry,Medium,7,No,Electrical Enclosures,14,ABS Plastic
+Coastal,High,9,Yes,Offshore Platforms,40,Stainless Steel 316
+Humid,Low,4,Yes,Decorative Panels,10,Engineered Wood
+Dry,High,10,No,Aerospace Frame,40,Aluminum 6061
+Humid,Medium,5,Yes,Floor Tiles,12,Ceramic
+Coastal,Medium,8,No,Condenser Coils,22,Copper
+Dry,High,7,No,Hand Tools,20,Carbon Steel
+Humid,Medium,6,Yes,Door Frames,14,Engineered Wood
+Dry,Low,2,Yes,Temporary Shelters,5,Plywood
+Coastal,Low,5,Yes,Window Screens,12,Fiberglass
+Humid,High,10,No,Heavy Duty Shelving,30,Stainless Steel 304
+Dry,Medium,6,Yes,Furniture,8,Medium Density Fiberboard
+Coastal,Medium,7,Yes,Balcony Railings,15,Aluminum 6061
+Humid,Low,3,Yes,Panel Boards,7,Medium Density Fiberboard
+Dry,High,9,No,Engine Blocks,28,Cast Iron
+Humid,Medium,6,Yes,Drainage Pipes,10,PVC
+Dry,Low,4,Yes,Display Boards,6,Polycarbonate
+Coastal,High,10,Yes,Oil Rig Structures,45,Stainless Steel 316
+Humid,Medium,7,Yes,Greenhouses,10,Polycarbonate
+Dry,High,9,Yes,Machine Parts,25,Carbon Steel
+Coastal,Medium,6,Yes,Sign Boards,15,Aluminum 6061
+Dry,Low,2,Yes,Event Staging,4,Plywood
+Humid,High,9,No,Industrial Fans,30,Stainless Steel 304
+Dry,Medium,5,Yes,Insulation Panels,7,Fiberglass
+Coastal,High,10,Yes,Underwater Pipelines,40,Stainless Steel 316
+Humid,Low,4,Yes,Interior Decor,6,Engineered Wood
+Dry,High,8,Yes,Automotive Housings,22,Aluminum 6061
+Coastal,Medium,7,No,Cable Trays,20,Galvanized Steel
+Dry,Low,3,Yes,Festival Stalls,5,Plywood
+Humid,Medium,6,Yes,Sanitary Fittings,14,Stainless Steel 304
+Coastal,Low,5,Yes,Roof Gutters,12,Aluminum 6061
+Dry,High,9,No,Precision Instruments,30,Brass
+Humid,Medium,5,Yes,False Ceiling,8,Medium Density Fiberboard
+Coastal,High,9,Yes,Ship Hulls,35,Stainless Steel 316
+Dry,Medium,6,Yes,Storage Cabinets,12,Plywood
+Humid,Low,4,Yes,Indoor Plants Holders,6,Ceramic
+Coastal,Medium,8,Yes,Heat Exchangers,25,Copper
+Dry,High,9,No,Defense Equipment,40,Titanium Grade 5
+Humid,Low,2,No,Offshore Platforms,18,Fiberglass
+Humid,Low,10,Yes,Underwater Pipelines,31,Teak Wood
+Coastal,Low,5,Yes,Machine Parts,42,Plywood
+Humid,Low,10,No,Electrical Enclosures,32,Fiberglass
+Dry,Low,4,No,Door Frames,21,Galvanized Steel
+Coastal,Medium,3,Yes,Heavy Duty Shelving,10,Plywood
+Dry,High,6,Yes,Ship Hulls,33,Aluminum 6061
+Coastal,Medium,3,No,Cable Trays,43,Fiberglass
+Humid,Low,3,Yes,Sanitary Fittings,18,Ceramic
+Dry,Low,5,Yes,Heavy Duty Shelving,21,PVC
+Humid,Medium,4,No,Temporary Shelters,17,Plywood
+Dry,High,3,Yes,Event Staging,19,HDPE
+Dry,Medium,6,Yes,Roof Gutters,24,Ceramic
+Coastal,Low,2,No,Balcony Railings,21,Aluminum 6061
+Coastal,High,7,Yes,Festival Stalls,35,Medium Density Fiberboard
+Humid,Medium,4,No,Ceiling Panels,19,Stainless Steel 316
+Humid,High,6,No,Underwater Pipelines,29,Fiberglass
+Coastal,Low,10,No,Water Pipes,7,Titanium Grade 5
+Coastal,High,4,No,Interior Decor,8,Stainless Steel 304
+Dry,High,9,No,Industrial Fans,4,Stainless Steel 304
+Humid,Low,10,No,Heat Exchangers,45,Engineered Wood
+Coastal,Medium,8,Yes,Display Boards,4,Medium Density Fiberboard
+Humid,Medium,10,Yes,Machine Parts,10,Aluminum 6061
+Dry,High,10,Yes,Roofing Sheets,27,Plywood
+Coastal,High,10,Yes,Interior Decor,24,Stainless Steel 316
+Coastal,Low,7,No,Offshore Platforms,7,Stainless Steel 316
+Humid,Low,3,No,Window Frames,38,Ceramic
+Coastal,Low,9,Yes,Decorative Panels,37,Stainless Steel 316
+Dry,Low,10,Yes,False Ceiling,23,Medium Density Fiberboard
+Humid,High,7,No,Sign Boards,32,Titanium Grade 5
+Coastal,Low,3,No,Interior Wall Frame,41,Plywood
+Coastal,High,5,Yes,Window Frames,44,Carbon Steel
+Coastal,Low,2,No,Window Frames,36,Stainless Steel 316
+Dry,High,9,Yes,Event Staging,12,Medium Density Fiberboard
+Humid,High,9,Yes,Defense Equipment,34,Titanium Grade 5
+Dry,Low,3,Yes,Sanitary Fittings,31,Plywood
+Dry,Medium,9,Yes,Roof Gutters,45,Galvanized Steel
+Coastal,Low,8,No,Automotive Parts,19,Medium Density Fiberboard
+Coastal,High,9,Yes,Engine Blocks,15,Aluminum 6061
+Dry,Low,3,No,Industrial Fans,10,Carbon Steel
+Humid,High,2,Yes,Indoor Plants Holders,19,HDPE
+Dry,Medium,9,Yes,Balcony Railings,7,HDPE
+Dry,Low,8,No,Defense Equipment,33,Ceramic
+Dry,High,10,No,Roofing Sheets,16,Ceramic
+Coastal,Low,10,Yes,Storage Cabinets,24,Carbon Steel
+Coastal,High,9,Yes,Gear Components,36,PVC
+Coastal,Low,3,Yes,Balcony Railings,11,Stainless Steel 304
+Coastal,High,2,Yes,Panel Boards,41,Stainless Steel 304
+Humid,Medium,6,Yes,Sanitary Fittings,24,Stainless Steel 316
+Dry,Medium,4,No,Display Boards,24,Plywood
+Coastal,Low,9,Yes,Window Frames,38,Cast Iron
+Humid,Medium,4,No,Window Frames,19,Fiberglass
+Dry,Low,9,No,Automotive Housings,45,Carbon Steel
+Coastal,High,10,No,Sanitary Fittings,10,Fiberglass
+Dry,Low,3,Yes,Aerospace Frame,22,Stainless Steel 316
+Coastal,High,7,Yes,Roof Gutters,44,Engineered Wood
+Humid,Medium,6,Yes,Water Pipes,44,Medium Density Fiberboard
+Dry,Low,2,No,Heat Exchangers,12,Aluminum 6061
+Dry,Low,9,No,Industrial Fans,4,Titanium Grade 5
+Coastal,High,4,Yes,Window Screens,41,Plywood
+Coastal,Medium,4,Yes,Condenser Coils,27,Brass
+Coastal,Medium,5,Yes,Sanitary Fittings,10,Plywood
+Humid,Medium,4,Yes,Chemical Storage Tanks,15,Aluminum 6061
+Coastal,Low,7,No,Sanitary Fittings,19,Aluminum 6061
+Coastal,High,3,No,Furniture,34,ABS Plastic
+Coastal,Medium,7,No,Defense Equipment,18,ABS Plastic
+Coastal,High,5,No,Door Frames,21,Aluminum 6061
+Dry,Medium,10,No,Roof Gutters,38,Engineered Wood
+Coastal,Low,6,Yes,Underwater Pipelines,20,Teak Wood
+Coastal,High,8,No,Ship Hulls,24,Medium Density Fiberboard
+Humid,High,3,No,Insulation Panels,16,Engineered Wood
+Coastal,High,8,Yes,Sign Boards,38,Stainless Steel 304
+Humid,High,5,No,Engine Blocks,8,Plywood
+Dry,High,7,Yes,Ship Hulls,23,Polycarbonate
+Dry,High,8,No,Balcony Railings,22,Plywood
+Coastal,Low,8,No,Roof Gutters,15,Engineered Wood
+Humid,Medium,8,Yes,Condenser Coils,22,Cast Iron
+Dry,High,7,No,Drainage Pipes,32,Stainless Steel 304
+Coastal,High,9,Yes,Sanitary Fittings,9,Ceramic
+Humid,High,7,Yes,Indoor Plants Holders,19,Stainless Steel 304
+Dry,Low,5,Yes,Interior Wall Frame,6,Stainless Steel 316
+Dry,High,3,No,Panel Boards,44,Stainless Steel 304
+Coastal,High,8,No,Balcony Railings,19,Galvanized Steel
+Humid,High,2,Yes,Heat Exchangers,31,ABS Plastic
+Coastal,High,10,No,Gear Components,39,Stainless Steel 316
+Coastal,Medium,4,No,Sanitary Fittings,37,Plywood
+Humid,Medium,9,No,Industrial Fans,32,HDPE
+Humid,Medium,9,No,Indoor Plants Holders,19,Aluminum 6061
+Dry,High,9,Yes,Aerospace Frame,32,Aluminum 6061
+Humid,Medium,5,No,Door Frames,24,Aluminum 6061
+Coastal,Low,4,Yes,Heavy Duty Shelving,13,Brass
+Coastal,Low,8,No,Door Frames,38,PVC
+Dry,Low,5,No,Heavy Duty Shelving,41,Aluminum 6061
+Coastal,High,8,No,Bridge Support,26,Copper
+Dry,Medium,10,Yes,Greenhouses,18,Aluminum 6061
+Dry,Medium,2,No,Door Frames,29,Medium Density Fiberboard
+Coastal,Medium,4,Yes,Balcony Railings,41,Stainless Steel 304
+Humid,Low,3,No,Ceiling Panels,33,Aluminum 6061
+Coastal,Medium,8,No,Pump Housings,33,Carbon Steel
+Dry,Medium,6,No,Decorative Panels,9,Polycarbonate
+Coastal,High,10,Yes,Temporary Shelters,18,Galvanized Steel
+Coastal,High,2,Yes,Offshore Platforms,16,Plywood
+Humid,Low,5,Yes,Oil Rig Structures,11,Stainless Steel 304
+Coastal,Medium,6,No,Chemical Storage Tanks,42,Stainless Steel 316
+Humid,High,3,Yes,Condenser Coils,10,Fiberglass
+Coastal,Medium,8,No,False Ceiling,16,Aluminum 6061
+Humid,High,5,Yes,Precision Instruments,23,Stainless Steel 304
+Humid,Low,2,No,Event Staging,31,Plywood
+Dry,Low,10,No,Bridge Support,30,Stainless Steel 316
+Coastal,Medium,7,No,False Ceiling,13,Medium Density Fiberboard
+Coastal,High,10,No,Automotive Housings,38,Ceramic
+Dry,Medium,8,No,Hand Tools,19,PVC
+Dry,Medium,5,No,Insulation Panels,43,Plywood
+Dry,Medium,2,No,Hand Tools,15,Stainless Steel 316
+Coastal,Medium,6,No,Aerospace Frame,42,Aluminum 6061
+Dry,High,2,Yes,Water Pipes,19,Medium Density Fiberboard
+Dry,Medium,10,Yes,Precision Instruments,34,Galvanized Steel
+Humid,Medium,9,Yes,Water Pipes,22,ABS Plastic
+Dry,High,5,No,Sanitary Fittings,41,Fiberglass
+Dry,High,10,No,Engine Blocks,39,Engineered Wood
+Dry,High,9,No,Condenser Coils,20,ABS Plastic
+Coastal,High,5,No,Marine Equipment,38,Plywood
+Humid,Low,5,Yes,Storage Cabinets,34,Aluminum 6061
+Humid,High,10,No,Automotive Parts,16,Ceramic
+Coastal,Medium,4,No,Bridge Support,38,Fiberglass
+Dry,Low,2,No,Precision Instruments,12,Aluminum 6061
+Dry,Low,2,No,Oil Rig Structures,34,Aluminum 6061
+Dry,Low,2,No,Oil Rig Structures,11,Aluminum 6061
+Dry,Medium,3,Yes,Roofing Sheets,13,Titanium Grade 5
+Humid,Medium,3,Yes,Marine Equipment,39,Plywood
+Dry,High,5,No,Drainage Pipes,32,Copper
+Humid,Medium,6,Yes,Automotive Housings,10,Plywood
+Coastal,High,5,No,Sanitary Fittings,9,HDPE
+Coastal,Low,10,Yes,Chemical Storage Tanks,4,Aluminum 6061
+Dry,High,9,No,Furniture,18,Ceramic
+Humid,Medium,9,Yes,Roof Gutters,18,Engineered Wood
+Humid,High,5,No,Marine Equipment,38,ABS Plastic
+Humid,Low,6,Yes,Window Frames,7,HDPE
+Dry,High,6,No,Marine Equipment,33,Aluminum 6061
+Dry,High,8,No,Machine Parts,38,Stainless Steel 316
+Dry,Low,2,No,Storage Cabinets,24,Stainless Steel 316
+Dry,Low,3,Yes,Roof Gutters,40,Fiberglass
+Coastal,High,6,Yes,Indoor Plants Holders,15,Polycarbonate
+Humid,High,9,No,Railing Structures,41,Medium Density Fiberboard
+Humid,Medium,3,No,Temporary Shelters,30,Engineered Wood
+Dry,High,3,Yes,Door Frames,30,Aluminum 6061
+Dry,Medium,8,Yes,Display Boards,9,Carbon Steel
+Dry,Medium,3,No,Machine Parts,4,Plywood
+Humid,Medium,8,Yes,Packaging,37,Fiberglass
+Humid,Medium,9,Yes,Pump Housings,21,Plywood
+Coastal,Medium,6,No,Chemical Storage Tanks,22,Stainless Steel 316
+Humid,High,8,Yes,Marine Equipment,28,Titanium Grade 5
+Dry,Low,4,No,Furniture,14,Engineered Wood
+Humid,Medium,5,Yes,Window Screens,8,Fiberglass
+Coastal,High,9,No,Bridge Support,32,Stainless Steel 316
+Dry,Medium,7,Yes,Electrical Components,16,Copper
+Humid,Low,3,No,Decorative Items,9,Medium Density Fiberboard
+Coastal,Low,5,Yes,Roofing,18,Aluminum 6061
+Dry,High,10,No,Aerospace Components,38,Titanium Grade 5
+Humid,Medium,6,Yes,Plumbing Fixtures,12,Brass
+Coastal,High,8,Yes,Ship Components,30,Stainless Steel 316
+Dry,Low,2,No,Temporary Structures,5,Plywood
+Humid,High,7,No,Industrial Equipment,25,Cast Iron
+Coastal,Medium,5,Yes,Architectural Features,15,Aluminum 6061
+Dry,Medium,6,No,Machine Components,20,Carbon Steel
+Humid,Low,4,Yes,Interior Design Elements,8,Engineered Wood
+Coastal,High,9,Yes,Offshore Structures,35,Stainless Steel 316
+Dry,High,8,No,Automotive Parts,22,Aluminum 6061
+Humid,Medium,7,Yes,Water Systems,14,PVC
+Coastal,Low,4,No,Coastal Furniture,12,Teak Wood
+Dry,Medium,5,Yes,Construction Framing,10,Galvanized Steel
+Humid,High,9,No,Chemical Equipment,28,Stainless Steel 304
+Coastal,Medium,6,Yes,Marine Hardware,18,Aluminum 6061
+Dry,Low,3,No,Packaging Materials,6,Medium Density Fiberboard
+Humid,Medium,5,Yes,Sanitary Ware,11,Ceramic
+Coastal,High,10,No,Defense Systems,40,Titanium Grade 5
+Dry,High,7,Yes,Structural Components,24,Carbon Steel
+Humid,Low,4,No,Decorative Panels,9,Plywood
+Coastal,Medium,7,Yes,Boat Fittings,20,Stainless Steel 316
+Dry,Medium,6,No,Industrial Machinery,18,Cast Iron
+Humid,High,8,Yes,Chemical Containers,30,HDPE
+Coastal,Low,5,No,Coastal Structures,15,Aluminum 6061
+Dry,High,9,Yes,Aerospace Frames,36,Aluminum 6061
+Humid,Medium,6,No,Plumbing Systems,14,Copper
+Coastal,High,10,Yes,Marine Construction,38,Stainless Steel 316
+Dry,Low,3,Yes,Temporary Installations,7,Plywood
+Humid,High,7,No,Heavy Equipment,26,Cast Iron
+Coastal,Medium,6,Yes,Architectural Details,16,Aluminum 6061
+Dry,Medium,5,No,Mechanical Parts,19,Carbon Steel
+Humid,Low,4,Yes,Interior Furnishings,9,Engineered Wood
+Coastal,High,8,Yes,Offshore Equipment,33,Stainless Steel 316
+Dry,High,7,No,Vehicle Components,23,Aluminum 6061
+Humid,Medium,6,Yes,Water Infrastructure,15,PVC
+Coastal,Low,5,No,Outdoor Furniture,13,Teak Wood
+Dry,Medium,4,Yes,Building Structures,11,Galvanized Steel
+Humid,High,9,No,Industrial Tanks,29,Stainless Steel 304
+Coastal,Medium,7,Yes,Boat Components,19,Aluminum 6061
+Dry,Low,2,No,Disposable Items,5,Medium Density Fiberboard
+Humid,Medium,5,Yes,Bathroom Fixtures,12,Ceramic
+Coastal,High,10,No,Military Equipment,42,Titanium Grade 5
+Dry,High,8,Yes,Support Structures,25,Carbon Steel
+Humid,Low,3,No,Display Items,8,Plywood
+Coastal,Medium,6,Yes,Marine Hardware,21,Stainless Steel 316
+Dry,Medium,7,No,Factory Equipment,20,Cast Iron
+Humid,High,8,Yes,Chemical Storage,32,HDPE
+Coastal,Low,4,No,Seaside Structures,14,Aluminum 6061
+Dry,High,10,Yes,Aircraft Parts,39,Aluminum 6061
+Humid,Medium,5,No,Piping Systems,13,Copper
+Coastal,High,9,Yes,Ship Building,36,Stainless Steel 316
+Dry,Low,2,Yes,Event Structures,6,Plywood
+Humid,High,6,No,Manufacturing Equipment,24,Cast Iron
+Coastal,Medium,5,Yes,Design Elements,17,Aluminum 6061
+Dry,Medium,6,No,Industrial Components,21,Carbon Steel
+Humid,Low,3,Yes,Home Decor,10,Engineered Wood
+Coastal,High,7,Yes,Oil Platforms,34,Stainless Steel 316
+Dry,High,8,No,Transportation Parts,24,Aluminum 6061
+Humid,Medium,7,Yes,Water Management,16,PVC
+Coastal,Low,4,No,Garden Furniture,12,Teak Wood
+Dry,Medium,5,Yes,Construction Elements,12,Galvanized Steel
+Humid,High,10,No,Process Vessels,30,Stainless Steel 304
+Coastal,Medium,6,Yes,Marine Accessories,20,Aluminum 6061
+Dry,Low,3,No,Short-term Use Items,7,Medium Density Fiberboard
+Humid,Medium,4,Yes,Household Fixtures,11,Ceramic
+Coastal,High,9,No,Defense Components,41,Titanium Grade 5
+Dry,High,7,Yes,Building Frames,26,Carbon Steel
+Humid,Low,2,No,Exhibition Items,9,Plywood
+Coastal,Medium,7,Yes,Boat Parts,22,Stainless Steel 316
+Dry,Medium,6,No,Production Machinery,19,Cast Iron
+Humid,High,9,Yes,Chemical Processing,33,HDPE
+Coastal,Low,5,No,Waterfront Structures,15,Aluminum 6061
+Dry,High,9,Yes,Aviation Structures,37,Aluminum 6061
+Humid,Medium,6,No,Water Supply,14,Copper
+Coastal,High,10,Yes,Marine Engineering,39,Stainless Steel 316
+Dry,Low,3,Yes,Pop-up Installations,8,Plywood
+Humid,High,7,No,Industrial Systems,25,Cast Iron
+Coastal,Medium,6,Yes,Architectural Design,18,Aluminum 6061
+Dry,Medium,5,No,Mechanical Systems,20,Carbon Steel
+Humid,Low,4,Yes,Interior Design,10,Engineered Wood
+Coastal,High,8,Yes,Offshore Installations,35,Stainless Steel 316
+Dry,High,7,No,Automotive Systems,23,Aluminum 6061
+Humid,Medium,6,Yes,Water Distribution,15,PVC
+Coastal,Low,5,No,Outdoor Decor,13,Teak Wood
+Dry,Medium,4,Yes,Structural Framing,11,Galvanized Steel
+Humid,High,9,No,Processing Equipment,28,Stainless Steel 304
+Coastal,Medium,7,Yes,Marine Components,19,Aluminum 6061
+Dry,Low,2,No,Temporary Displays,6,Medium Density Fiberboard
+Humid,Medium,5,Yes,Bathroom Accessories,12,Ceramic
+Coastal,High,10,No,Strategic Equipment,40,Titanium Grade 5
+Dry,High,8,Yes,Support Frames,24,Carbon Steel
+Humid,Low,3,No,Display Units,9,Plywood
+Coastal,Medium,6,Yes,Ship Equipment,21,Stainless Steel 316
+Dry,Medium,7,No,Manufacturing Systems,20,Cast Iron
+Humid,High,8,Yes,Chemical Handling,31,HDPE
+Coastal,Low,4,No,Seaside Features,14,Aluminum 6061
+Dry,High,10,Yes,Aircraft Components,38,Aluminum 6061
+Humid,Medium,5,No,Plumbing Networks,13,Copper
+Coastal,High,9,Yes,Naval Construction,36,Stainless Steel 316
+Dry,Low,2,Yes,Event Equipment,7,Plywood
+Humid,High,6,No,Production Systems,24,Cast Iron
+Coastal,Medium,5,Yes,Design Features,17,Aluminum 6061
+Dry,Medium,6,No,Industrial Machinery,21,Carbon Steel
+Humid,Low,3,Yes,Home Furnishings,10,Engineered Wood
+Coastal,High,7,Yes,Oil Industry Structures,34,Stainless Steel 316
+Dry,High,8,No,Vehicle Systems,24,Aluminum 6061
+Humid,Medium,7,Yes,Water Systems,16,PVC
+Coastal,Low,4,No,Patio Furniture,12,Teak Wood
+Dry,Medium,5,Yes,Building Components,12,Galvanized Steel
+Humid,High,10,No,Industrial Containers,30,Stainless Steel 304
+Coastal,Medium,6,Yes,Boat Hardware,20,Aluminum 6061
+Dry,Low,3,No,Short-term Structures,7,Medium Density Fiberboard
+Humid,Medium,4,Yes,Household Items,11,Ceramic
+Coastal,High,9,No,Military Systems,41,Titanium Grade 5
+Dry,High,7,Yes,Structural Frames,26,Carbon Steel
+Humid,Low,2,No,Exhibition Displays,9,Plywood
+Coastal,Medium,7,Yes,Marine Parts,22,Stainless Steel 316
+Dry,Medium,6,No,Factory Systems,19,Cast Iron
+Humid,High,9,Yes,Chemical Systems,33,HDPE
+Coastal,Low,5,No,Waterfront Features,15,Aluminum 6061
+Dry,High,9,Yes,Aviation Parts,37,Aluminum 6061
+Humid,Medium,6,No,Water Infrastructure,14,Copper
+Coastal,High,10,Yes,Shipbuilding,39,Stainless Steel 316
+Dry,Low,3,Yes,Temporary Setups,8,Plywood
+Humid,High,7,No,Processing Machinery,25,Cast Iron
+Coastal,Medium,6,Yes,Architectural Elements,18,Aluminum 6061
+Dry,Medium,5,No,Mechanical Equipment,20,Carbon Steel
+Humid,Low,4,Yes,Interior Elements,10,Engineered Wood
+Coastal,High,8,Yes,Offshore Structures,35,Stainless Steel 316
+Dry,High,7,No,Transportation Systems,23,Aluminum 6061
+Humid,Medium,6,Yes,Water Management,15,PVC
+Coastal,Low,5,No,Garden Elements,13,Teak Wood
+Dry,Medium,4,Yes,Construction Frames,11,Galvanized Steel
+Humid,High,9,No,Industrial Vessels,28,Stainless Steel 304
+Coastal,Medium,7,Yes,Marine Systems,19,Aluminum 6061
+Dry,Low,2,No,Display Materials,6,Medium Density Fiberboard
+Humid,Medium,5,Yes,Bathroom Items,12,Ceramic
+Coastal,High,10,No,Defense Technology,40,Titanium Grade 5
+Dry,High,8,Yes,Support Systems,24,Carbon Steel
+Humid,Low,3,No,Show Items,9,Plywood
+Coastal,Medium,6,Yes,Naval Equipment,21,Stainless Steel 316
+Dry,Medium,7,No,Production Equipment,20,Cast Iron
+Humid,High,8,Yes,Chemical Processing,31,HDPE
+Coastal,Low,4,No,Coastal Elements,14,Aluminum 6061
+Dry,High,10,Yes,Aerospace Systems,38,Aluminum 6061
+Humid,Medium,5,No,Plumbing Installations,13,Copper
+Coastal,High,9,Yes,Marine Technology,36,Stainless Steel 316
+Dry,Low,2,Yes,Event Materials,7,Plywood
+Humid,High,6,No,Manufacturing Technology,24,Cast Iron
+Coastal,Medium,5,Yes,Design Components,17,Aluminum 6061
+Dry,Medium,6,No,Industrial Technology,21,Carbon Steel
+Humid,Low,3,Yes,Home Technology,10,Engineered Wood
+Coastal,High,7,Yes,Oil Technology,34,Stainless Steel 316
+Dry,High,8,No,Automotive Technology,24,Aluminum 6061
+Humid,Medium,7,Yes,Water Technology,16,PVC
+Coastal,Low,4,No,Outdoor Technology,12,Teak Wood
+Dry,Medium,5,Yes,Construction Technology,12,Galvanized Steel
+Humid,High,10,No,Industrial Technology,30,Stainless Steel 304
+Coastal,Medium,6,Yes,Marine Technology,20,Aluminum 6061
+Dry,Low,3,No,Temporary Technology,7,Medium Density Fiberboard
+Humid,Medium,4,Yes,Household Technology,11,Ceramic
+Coastal,High,9,No,Military Technology,41,Titanium Grade 5
+Dry,High,7,Yes,Structural Technology,26,Carbon Steel
+Humid,Low,2,No,Display Technology,9,Plywood
+Coastal,Medium,7,Yes,Ship Technology,22,Stainless Steel 316
+Dry,Medium,6,No,Factory Technology,19,Cast Iron
+Humid,High,9,Yes,Chemical Technology,33,HDPE
+Coastal,Low,5,No,Waterfront Technology,15,Aluminum 6061
+Dry,High,9,Yes,Aviation Technology,37,Aluminum 6061
+Humid,Medium,6,No,Plumbing Technology,14,Copper
+Coastal,High,10,Yes,Naval Technology,39,Stainless Steel 316
+Dry,Low,3,Yes,Event Technology,8,Plywood
+Humid,High,7,No,Processing Technology,25,Cast Iron
+Coastal,Medium,6,Yes,Architectural Technology,18,Aluminum 6061
+Dry,Medium,5,No,Mechanical Technology,20,Carbon Steel
+Humid,Low,4,Yes,Interior Technology,10,Engineered Wood
+Coastal,High,8,Yes,Offshore Technology,35,Stainless Steel 316
+Dry,High,7,No,Transportation Technology,23,Aluminum 6061
+Humid,Medium,6,Yes,Water Systems Technology,15,PVC
+Coastal,Low,5,No,Garden Technology,13,Teak Wood
+Dry,Medium,4,Yes,Construction Systems,11,Galvanized Steel
+Humid,High,9,No,Industrial Systems,28,Stainless Steel 304
+Coastal,Medium,7,Yes,Marine Systems,19,Aluminum 6061
+Dry,Low,2,No,Display Systems,6,Medium Density Fiberboard
+Humid,Medium,5,Yes,Bathroom Systems,12,Ceramic
+Coastal,High,10,No,Defense Systems,40,Titanium Grade 5
+Dry,High,8,Yes,Support Systems,24,Carbon Steel
+Humid,Low,3,No,Show Systems,9,Plywood
+Coastal,Medium,6,Yes,Naval Systems,21,Stainless Steel 316
+Dry,Medium,7,No,Production Systems,20,Cast Iron
+Humid,High,8,Yes,Chemical Systems,31,HDPE
+Coastal,Low,4,No,Coastal Systems,14,Aluminum 6061
+Dry,High,10,Yes,Aerospace Systems,38,Aluminum 6061
+Humid,Medium,5,No,Plumbing Systems,13,Copper
+Coastal,High,9,Yes,Marine Engineering,36,Stainless Steel 316
+Dry,Low,2,Yes,Event Systems,7,Plywood
+Humid,High,6,No,Manufacturing Systems,24,Cast Iron
+Coastal,Medium,5,Yes,Design Systems,17,Aluminum 6061
+Dry,Medium,6,No,Industrial Equipment,21,Carbon Steel
+Humid,Low,3,Yes,Home Equipment,10,Engineered Wood
+Coastal,High,7,Yes,Oil Equipment,34,Stainless Steel 316
+Dry,High,8,No,Automotive Equipment,24,Aluminum 6061
+Humid,Medium,7,Yes,Water Equipment,16,PVC
+Coastal,Low,4,No,Outdoor Equipment,12,Teak Wood
+Dry,Medium,5,Yes,Construction Equipment,12,Galvanized Steel
+Humid,High,10,No,Industrial Machinery,30,Stainless Steel 304
+Coastal,Medium,6,Yes,Marine Machinery,20,Aluminum 6061
+Dry,Low,3,No,Temporary Machinery,7,Medium Density Fiberboard
+Humid,Medium,4,Yes,Household Machinery,11,Ceramic
+Coastal,High,9,No,Military Machinery,41,Titanium Grade 5
+Dry,High,7,Yes,Structural Machinery,26,Carbon Steel
+Humid,Low,2,No,Display Machinery,9,Plywood
+Coastal,Medium,7,Yes,Ship Machinery,22,Stainless Steel 316
+Dry,Medium,6,No,Factory Machinery,19,Cast Iron
+Humid,High,9,Yes,Chemical Machinery,33,HDPE
+Coastal,Low,5,No,Waterfront Machinery,15,Aluminum 6061
+Dry,High,9,Yes,Aviation Machinery,37,Aluminum 6061
+Humid,Medium,6,No,Plumbing Machinery,14,Copper
+Coastal,High,10,Yes,Naval Machinery,39,Stainless Steel 316
+Dry,Low,3,Yes,Event Machinery,8,Plywood
+Humid,High,7,No,Processing Machinery,25,Cast Iron
+Coastal,Medium,6,Yes,Architectural Machinery,18,Aluminum 6061
+Dry,Medium,5,No,Mechanical Devices,20,Carbon Steel
+Humid,Low,4,Yes,Interior Devices,10,Engineered Wood
+Coastal,High,8,Yes,Offshore Devices,35,Stainless Steel 316
+Dry,High,7,No,Transportation Devices,23,Aluminum 6061
+Humid,Medium,6,Yes,Water Devices,15,PVC
+Coastal,Low,5,No,Garden Devices,13,Teak Wood
+Dry,Medium,4,Yes,Construction Devices,11,Galvanized Steel
+Humid,High,9,No,Industrial Devices,28,Stainless Steel 304
+Coastal,Medium,7,Yes,Marine Devices,19,Aluminum 6061
+Dry,Low,2,No,Display Devices,6,Medium Density Fiberboard
+Humid,Medium,5,Yes,Bathroom Devices,12,Ceramic
+Coastal,High,10,No,Defense Devices,40,Titanium Grade 5
+Dry,High,8,Yes,Support Devices,24,Carbon Steel
+Humid,Low,3,No,Show Devices,9,Plywood
+Coastal,Medium,6,Yes,Ship Devices,21,Stainless Steel 316
+Dry,Medium,7,No,Production Devices,20,Cast Iron
+Humid,High,8,Yes,Chemical Devices,31,HDPE
+Coastal,Low,4,No,Coastal Devices,14,Aluminum 6061
+Dry,High,10,Yes,Aerospace Devices,38,Aluminum 6061
+Humid,Medium,5,No,Plumbing Devices,13,Copper
+Coastal,High,9,Yes,Marine Components,36,Stainless Steel 316
+Dry,Low,2,Yes,Event Components,7,Plywood
+Humid,High,6,No,Manufacturing Components,24,Cast Iron
+Coastal,Medium,5,Yes,Design Components,17,Aluminum 6061
+Dry,Medium,6,No,Industrial Components,21,Carbon Steel
+Humid,Low,3,Yes,Home Components,10,Engineered Wood
+Coastal,High,7,Yes,Oil Components,34,Stainless Steel 316
+Dry,High,8,No,Automotive Components,24,Aluminum 6061
+Humid,Medium,7,Yes,Water Components,16,PVC
+Coastal,Low,4,No,Outdoor Components,12,Teak Wood
+Dry,Medium,5,Yes,Construction Components,12,Galvanized Steel
+Humid,High,10,No,Industrial Parts,30,Stainless Steel 304
+Coastal,Medium,6,Yes,Marine Parts,20,Aluminum 6061
+Dry,Low,3,No,Temporary Parts,7,Medium Density Fiberboard
+Humid,Medium,4,Yes,Household Parts,11,Ceramic
+Coastal,High,9,No,Military Parts,41,Titanium Grade 5
+Dry,High,7,Yes,Structural Parts,26,Carbon Steel
+Humid,Low,2,No,Display Parts,9,Plywood
+Coastal,Medium,7,Yes,Ship Parts,22,Stainless Steel 316
+Dry,Medium,6,No,Factory Parts,19,Cast Iron
+Humid,High,9,Yes,Chemical Parts,33,HDPE
+Coastal,Low,5,No,Waterfront Parts,15,Aluminum 6061
+Dry,High,9,Yes,Aviation Parts,37,Aluminum 6061
+Humid,Medium,6,No,Plumbing Parts,14,Copper
+Coastal,High,10,Yes,Naval Parts,39,Stainless Steel 316
+Dry,Low,3,Yes,Event Parts,8,Plywood
+Humid,High,7,No,Processing Parts,25,Cast Iron
+Coastal,Medium,6,Yes,Architectural Parts,18,Aluminum 6061
+Dry,Medium,5,No,Mechanical Parts,20,Carbon Steel
+Humid,Low,4,Yes,Interior Parts,10,Engineered Wood
+Coastal,High,8,Yes,Offshore Parts,35,Stainless Steel 316
+Dry,High,7,No,Transportation Parts,23,Aluminum 6061
+Humid,Medium,6,Yes,Water Parts,15,PVC
+Coastal,Low,5,No,Garden Parts,13,Teak Wood
+Dry,Medium,4,Yes,Construction Parts,11,Galvanized Steel
+Humid,High,9,No,Industrial Elements,28,Stainless Steel 304
+Coastal,Medium,7,Yes,Marine Elements,19,Aluminum 6061
+Dry,Low,2,No,Display Elements,6,Medium Density Fiberboard
+Humid,Medium,5,Yes,Bathroom Elements,12,Ceramic
+Coastal,High,10,No,Defense Elements,40,Titanium Grade 5
+Dry,High,8,Yes,Support Elements,24,Carbon Steel
+Humid,Low,3,No,Show Elements,9,Plywood
+Coastal,Medium,6,Yes,Ship Elements,21,Stainless Steel 316
+Dry,Medium,7,No,Production Elements,20,Cast Iron
+Humid,High,8,Yes,Chemical Elements,31,HDPE
+Coastal,Low,4,No,Coastal Elements,14,Aluminum 6061
+Dry,High,10,Yes,Aerospace Elements,38,Aluminum 6061
+Humid,Medium,5,No,Plumbing Elements,13,Copper
+Coastal,High,9,Yes,Marine Features,36,Stainless Steel 316
+Dry,Low,2,Yes,Event Features,7,Plywood
+Humid,High,6,No,Manufacturing Features,24,Cast Iron
+Coastal,Medium,5,Yes,Design Features,17,Aluminum 6061
+Dry,Medium,6,No,Industrial Features,21,Carbon Steel
+Humid,Low,3,Yes,Home Features,10,Engineered Wood
+Coastal,High,7,Yes,Oil Features,34,Stainless Steel 316
+Dry,High,8,No,Automotive Features,24,Aluminum 6061
+Humid,Medium,7,Yes,Water Features,16,PVC
+Coastal,Low,4,No,Outdoor Features,12,Teak Wood
+Dry,Medium,5,Yes,Construction Features,12,Galvanized Steel
+Humid,High,10,No,Industrial Items,30,Stainless Steel 304
+Coastal,Medium,6,Yes,Marine Items,20,Aluminum 6061
+Dry,Low,3,No,Temporary Items,7,Medium Density Fiberboard
+Humid,Medium,4,Yes,Household Items,11,Ceramic
+Coastal,High,9,No,Military Items,41,Titanium Grade 5
+Dry,High,7,Yes,Structural Items,26,Carbon Steel
+Humid,Low,2,No,Display Items,9,Plywood
+Coastal,Medium,7,Yes,Ship Items,22,Stainless Steel 316
+Dry,Medium,6,No,Factory Items,19,Cast Iron
+Humid,High,9,Yes,Chemical Items,33,HDPE
+Coastal,Low,5,No,Waterfront Items,15,Aluminum 6061
+Dry,High,9,Yes,Aviation Items,37,Aluminum 6061
+Humid,Medium,6,No,Plumbing Items,14,Copper
+Coastal,High,10,Yes,Naval Items,39,Stainless Steel 316
+Dry,Low,3,Yes,Event Items,8,Plywood
+Humid,High,7,No,Processing Items,25,Cast Iron
+Coastal,Medium,6,Yes,Architectural Items,18,Aluminum 6061
+Dry,Medium,5,No,Mechanical Items,20,Carbon Steel
+Humid,Low,4,Yes,Interior Items,10,Engineered Wood
+Coastal,High,8,Yes,Offshore Items,35,Stainless Steel 316
+Dry,High,7,No,Transportation Items,23,Aluminum 6061
+Humid,Medium,6,Yes,Water Items,15,PVC
+Coastal,Low,5,No,Garden Items,13,Teak Wood
+Dry,Medium,4,Yes,Construction Items,11,Galvanized Steel
+Humid,High,9,No,Industrial Objects,28,Stainless Steel 304
+Coastal,Medium,7,Yes,Marine Objects,19,Aluminum 6061
+Dry,Low,2,No,Display Objects,6,Medium Density Fiberboard
+Humid,Medium,5,Yes,Bathroom Objects,12,Ceramic
+Coastal,High,10,No,Defense Objects,40,Titanium Grade 5
+Dry,High,8,Yes,Support Objects,24,Carbon Steel
+Humid,Low,3,No,Show Objects,9,Plywood
+Coastal,Medium,6,Yes,Ship Objects,21,Stainless Steel 316
+Dry,Medium,7,No,Production Objects,20,Cast Iron
+Humid,High,8,Yes,Chemical Objects,31,HDPE
+Coastal,Low,4,No,Coastal Objects,14,Aluminum 6061
+Dry,High,10,Yes,Aerospace Objects,38,Aluminum 6061
+Humid,Medium,5,No,Plumbing Objects,13,Copper
+Coastal,High,9,Yes,Marine Structures,36,Stainless Steel 316
+Dry,Low,2,Yes,Event Structures,7,Plywood
+Humid,High,6,No,Manufacturing Structures,24,Cast Iron
+Coastal,Medium,5,Yes,Design Structures,17,Aluminum 6061
+Dry,Medium,6,No,Industrial Structures,21,Carbon Steel
+Humid,Low,3,Yes,Home Structures,10,Engineered Wood
+Coastal,High,7,Yes,Oil Structures,34,Stainless Steel 316
+Dry,High,8,No,Automotive Structures,24,Aluminum 6061
+Humid,Medium,7,Yes,Water Structures,16,PVC
+Coastal,Low,4,No,Outdoor Structures,12,Teak Wood
+Dry,Medium,5,Yes,Construction Structures,12,Galvanized Steel
+Humid,High,10,No,Industrial Installations,30,Stainless Steel 304
+Coastal,Medium,6,Yes,Marine Installations,20,Aluminum 6061
+Dry,Low,3,No,Temporary Installations,7,Medium Density Fiberboard
+Humid,Medium,4,Yes,Household Installations,11,Ceramic
+Coastal,High,9,No,Military Installations,41,Titanium Grade 5
+Dry,High,7,Yes,Structural Installations,26,Carbon Steel
+Humid,Low,2,No,Display Installations,9,Plywood
+Coastal,Medium,7,Yes,Ship Installations,22,Stainless Steel 316
+Dry,Medium,6,No,Factory Installations,19,Cast Iron
+Humid,High,9,Yes,Chemical Installations,33,HDPE
+Coastal,Low,5,No,Waterfront Installations,15,Aluminum 6061
+Dry,High,9,Yes,Aviation Installations,37,Aluminum 6061
+Humid,Medium,6,No,Plumbing Installations,14,Copper
+Coastal,High,10,Yes,Naval Installations,39,Stainless Steel 316
+Dry,Low,3,Yes,Event Installations,8,Plywood
+Humid,High,7,No,Processing Installations,25,Cast Iron
+Coastal,Medium,6,Yes,Architectural Installations,18,Aluminum 6061
+Dry,Medium,5,No,Mechanical Installations,20,Carbon Steel
+Humid,Low,4,Yes,Interior Installations,10,Engineered Wood
+Coastal,High,8,Yes,Offshore Installations,35,Stainless Steel 316
+Dry,High,7,No,Transportation Installations,23,Aluminum 6061
+Humid,Medium,6,Yes,Water Installations,15,PVC
+Coastal,Low,5,No,Garden Installations,13,Teak Wood
+Dry,Medium,4,Yes,Construction Installations,11,Galvanized Steel
+Humid,High,9,No,Industrial Setups,28,Stainless Steel 304
+Coastal,Medium,7,Yes,Marine Setups,19,Aluminum 6061
+Dry,Low,2,No,Display Setups,6,Medium Density Fiberboard
+Humid,Medium,5,Yes,Bathroom Setups,12,Ceramic
+Coastal,High,10,No,Defense Setups,40,Titanium Grade 5
+Dry,High,8,Yes,Support Setups,24,Carbon Steel
+Humid,Low,3,No,Show Setups,9,Plywood
+Coastal,Medium,6,Yes,Ship Setups,21,Stainless Steel 316
+Dry,Medium,7,No,Production Setups,20,Cast Iron
+Humid,High,8,Yes,Chemical Setups,31,HDPE
+Coastal,Low,4,No,Coastal Setups,14,Aluminum 6061
+Dry,High,10,Yes,Aerospace Setups,38,Aluminum 6061
+Humid,Medium,5,No,Plumbing Setups,13,Copper
+Coastal,High,9,Yes,Marine Arrangements,36,Stainless Steel 316
+Dry,Low,2,Yes,Event Arrangements,7,Plywood
+Humid,High,6,No,Manufacturing Arrangements,24,Cast Iron
+Coastal,Medium,5,Yes,Design Arrangements,17,Aluminum 6061
+Dry,Medium,6,No,Industrial Arrangements,21,Carbon Steel
+Humid,Low,3,Yes,Home Arrangements,10,Engineered Wood
+Coastal,High,7,Yes,Oil Arrangements,34,Stainless Steel 316
+Dry,High,8,No,Automotive Arrangements,24,Aluminum 6061
+Humid,Medium,7,Yes,Water Arrangements,16,PVC
+Coastal,Low,4,No,Outdoor Arrangements,12,Teak Wood
+Dry,Medium,5,Yes,Construction Arrangements,12,Galvanized Steel
+Humid,High,10,No,Industrial Configurations,30,Stainless Steel 304
+Coastal,Medium,6,Yes,Marine Configurations,20,Aluminum 6061
+Dry,Low,3,No,Temporary Configurations,7,Medium Density Fiberboard
+Humid,Medium,4,Yes,Household Configurations,11,Ceramic
+Coastal,High,9,No,Military Configurations,41,Titanium Grade 5
+Dry,High,7,Yes,Structural Configurations,26,Carbon Steel
+Humid,Low,2,No,Display Configurations,9,Plywood
+Coastal,Medium,7,Yes,Ship Configurations,22,Stainless Steel 316
+Dry,Medium,6,No,Factory Configurations,19,Cast Iron
+Humid,High,9,Yes,Chemical Configurations,33,HDPE
+Coastal,Low,5,No,Waterfront Configurations,15,Aluminum 6061
+Dry,High,9,Yes,Aviation Configurations,37,Aluminum 6061
+Humid,Medium,6,No,Plumbing Configurations,14,Copper
+Coastal,High,10,Yes,Naval Configurations,39,Stainless Steel 316
+Dry,Low,3,Yes,Event Configurations,8,Plywood
+Humid,High,7,No,Processing Configurations,25,Cast Iron
+Coastal,Medium,6,Yes,Architectural Configurations,18,Aluminum 6061
+Dry,Medium,5,No,Mechanical Configurations,20,Carbon Steel
+Humid,Low,4,Yes,Interior Configurations,10,Engineered Wood
+Coastal,High,8,Yes,Offshore Configurations,35,Stainless Steel 316
+Dry,High,7,No,Transportation Configurations,23,Aluminum 6061
+Humid,Medium,6,Yes,Water Configurations,15,PVC
+Coastal,Low,5,No,Garden Configurations,13,Teak Wood
+Dry,Medium,4,Yes,Construction Configurations,11,Galvanized Stellite
+Humid,Medium,5,Yes,Water Tanks,14,HDPE
+Dry,High,8,No,Machine Frames,22,Carbon Steel
+Coastal,Low,6,Yes,Decking,12,Teak Wood
+Humid,High,9,No,Chemical Vats,28,Stainless Steel 316
+Dry,Medium,4,Yes,Shelving Units,9,Plywood
+Coastal,High,7,Yes,Boat Hulls,30,Aluminum 6061
+Humid,Low,3,No,Partitions,7,Medium Density Fiberboard
+Dry,High,10,No,Aircraft Landing Gear,40,Titanium Grade 5
+Coastal,Medium,5,Yes,Dock Components,18,Galvanized Steel
+Humid,Medium,6,No,Pipe Fittings,13,Brass
+Dry,Low,2,Yes,Exhibition Stands,5,Plywood
+Coastal,High,8,Yes,Submarine Parts,35,Stainless Steel 316
+Humid,High,7,No,Reactor Vessels,26,Cast Iron
+Dry,Medium,5,Yes,Display Cases,11,Polycarbonate
+Coastal,Low,4,No,Beach Furniture,10,Aluminum 6061
+Humid,Medium,6,Yes,Swimming Pool Liners,15,PVC
+Dry,High,9,No,Turbine Blades,32,Carbon Fiber Composite
+Coastal,High,10,Yes,Desalination Plants,38,Stainless Steel 316
+Humid,Low,3,Yes,Acoustic Panels,8,Fiberglass
+Dry,Medium,6,No,Conveyor Systems,19,Carbon Steel
+Coastal,Medium,7,Yes,Fishing Equipment,21,Stainless Steel 304
+Humid,High,8,No,Pressure Vessels,29,Stainless Steel 316
+Dry,Low,4,Yes,Model Making,6,ABS Plastic
+Coastal,High,9,Yes,Lighthouse Structures,33,Stainless Steel 316
+Humid,Medium,5,No,Bathroom Partitions,12,Ceramic
+Dry,High,7,No,Excavator Parts,24,Cast Iron
+Coastal,Low,6,Yes,Marine Walkways,16,Aluminum 6061
+Humid,High,9,Yes,Sewage Systems,27,HDPE
+Dry,Medium,4,No,Workbenches,10,Medium Density Fiberboard
+Coastal,High,8,Yes,Oil Pipeline,34,Stainless Steel 316
+Humid,Low,3,Yes,Greenhouse Frames,7,Aluminum 6061
+Dry,High,10,No,Rocket Components,42,Titanium Grade 5
+Coastal,Medium,5,No,Coastal Barriers,17,Galvanized Steel
+Humid,Medium,6,Yes,Water Treatment,14,PVC
+Dry,Low,2,No,Packaging Crates,4,Plywood
+Coastal,High,9,Yes,Ship Propellers,36,Stainless Steel 316
+Humid,High,7,No,Industrial Ovens,25,Cast Iron
+Dry,Medium,5,Yes,Skylights,10,Polycarbonate
+Coastal,Low,4,No,Boardwalk Railings,9,Aluminum 6061
+Humid,Medium,6,Yes,Irrigation Pipes,15,HDPE
+Dry,High,8,No,Crane Components,28,Carbon Steel
+Coastal,High,10,Yes,Wind Turbine Towers,40,Stainless Steel 316
+Humid,Low,3,Yes,Partition Walls,7,Engineered Wood
+Dry,Medium,6,No,Material Handling,18,Carbon Steel
+Coastal,Medium,7,Yes,Navigation Buoys,20,Stainless Steel 304
+Humid,High,8,No,Autoclave Chambers,30,Stainless Steel 316
+Dry,Low,4,Yes,Prototypes,5,ABS Plastic
+Coastal,High,9,Yes,Pier Supports,32,Stainless Steel 316
+Humid,Medium,5,No,Laboratory Countertops,11,Ceramic
+Dry,High,7,No,Press Frames,23,Cast Iron
+Coastal,Low,6,Yes,Floating Docks,15,Aluminum 6061
+Humid,High,9,Yes,Chemical Dosing,26,HDPE
+Dry,Medium,4,No,Shop Fixtures,8,Medium Density Fiberboard
+Coastal,High,8,Yes,Offshore Wind,33,Stainless Steel 316
+Humid,Low,3,Yes,Aquarium Frames,6,Aluminum 6061
+Dry,High,10,No,Satellite Parts,41,Titanium Grade 5
+Coastal,Medium,5,No,Sea Wall,16,Galvanized Steel
+Humid,Medium,6,Yes,Water Slides,13,PVC
+Dry,Low,2,No,Trade Show Displays,3,Plywood
+Coastal,High,9,Yes,Ship Rudders,35,Stainless Steel 316
+Humid,High,7,No,Furnace Parts,24,Cast Iron
+Dry,Medium,5,Yes,Conservatory Roofs,9,Polycarbonate
+Coastal,Low,4,No,Beach Umbrella Stands,8,Aluminum 6061
+Humid,Medium,6,Yes,Geothermal Piping,14,HDPE
+Dry,High,8,No,Forging Dies,27,Carbon Steel
+Coastal,High,10,Yes,Tidal Power,39,Stainless Steel 316
+Humid,Low,3,Yes,Office Dividers,6,Engineered Wood
+Dry,Medium,6,No,Factory Equipment,17,Carbon Steel
+Coastal,Medium,7,Yes,Boat Anchors,19,Stainless Steel 304
+Humid,High,8,No,Reaction Vessels,29,Stainless Steel 316
+Dry,Low,4,Yes,Concept Models,4,ABS Plastic
+Coastal,High,9,Yes,Harbor Structures,31,Stainless Steel 316
+Humid,Medium,5,No,Lab Sinks,10,Ceramic
+Dry,High,7,No,Gearbox Housings,22,Cast Iron
+Coastal,Low,6,Yes,Marine Ladders,14,Aluminum 6061
+Humid,High,9,Yes,Effluent Pipes,25,HDPE
+Dry,Medium,4,No,Retail Displays,7,Medium Density Fiberboard
+Coastal,High,8,Yes,Oil Rig,32,Stainless Steel 316
+Humid,Low,3,Yes,Hydroponic Systems,5,Aluminum 6061
+Dry,High,10,No,Jet Engine Parts,40,Titanium Grade 5
+Coastal,Medium,5,No,Breakwaters,15,Galvanized Steel
+Humid,Medium,6,Yes,Pool Filters,12,PVC
+Dry,Low,2,No,Stage Props,2,Plywood
+Coastal,High,9,Yes,Ship Masts,34,Stainless Steel 316
+Humid,High,7,No,Smelting Equipment,23,Cast Iron
+Dry,Medium,5,Yes,Carports,8,Polycarbonate
+Coastal,Low,4,No,Seaside Benches,7,Aluminum 6061
+Humid,Medium,6,Yes,Water Mains,13,HDPE
+Dry,High,8,No,Press Brakes,26,Carbon Steel
+Coastal,High,10,Yes,Wave Energy,38,Stainless Steel 316
+Humid,Low,3,Yes,Acoustic Screens,5,Engineered Wood
+Dry,Medium,6,No,Machine Bases,16,Carbon Steel
+Coastal,Medium,7,Yes,Boat Railings,18,Stainless Steel 304
+Humid,High,8,No,Distillation Columns,28,Stainless Steel 316
+Dry,Low,4,Yes,Scale Models,3,ABS Plastic
+Coastal,High,9,Yes,Port Infrastructure,30,Stainless Steel 316
+Humid,Medium,5,No,Lab Tables,9,Ceramic
+Dry,High,7,No,Pump Casings,21,Cast Iron
+Coastal,Low,6,Yes,Floating Pontoons,13,Aluminum 6061
+Humid,High,9,Yes,Chemical Transport,24,HDPE
+Dry,Medium,4,No,Exhibition Backdrops,6,Medium Density Fiberboard
+Coastal,High,8,Yes,Offshore Drilling,31,Stainless Steel 316
+Humid,Low,3,Yes,Terrariums,4,Aluminum 6061
+Dry,High,10,No,Spacecraft Parts,39,Titanium Grade 5
+Coastal,Medium,5,No,Jetty,14,Galvanized Steel
+Humid,Medium,6,Yes,Spray Nozzles,11,PVC
+Dry,Low,2,No,Set Design,1,Plywood
+Coastal,High,9,Yes,Ship Keels,33,Stainless Steel 316
+Humid,High,7,No,Boiler Parts,22,Cast Iron
+Dry,Medium,5,Yes,Solar Panels,7,Polycarbonate
+Coastal,Low,4,No,Beach Accessories,6,Aluminum 6061
+Humid,Medium,6,Yes,Sprinkler Systems,12,HDPE
+Dry,High,8,No,Die Casting,25,Carbon Steel
+Coastal,High,10,Yes,Ocean Thermal,37,Stainless Steel 316
+Humid,Low,3,Yes,Room Dividers,4,Engineered Wood
+Dry,Medium,6,No,Material Conveyors,15,Carbon Steel
+Coastal,Medium,7,Yes,Boat Cleats,17,Stainless Steel 304
+Humid,High,8,No,Pressure Reactors,27,Stainless Steel 316
+Dry,Low,4,Yes,Presentation Models,2,ABS Plastic
+Coastal,High,9,Yes,Coastal Defense,29,Stainless Steel 316
+Humid,Medium,5,No,Science Lab,8,Ceramic
+Dry,High,7,No,Compressor Housings,20,Cast Iron
+Coastal,Low,6,Yes,Marine Platforms,12,Aluminum 6061
+Humid,High,9,Yes,Waste Pipes,23,HDPE
+Dry,Medium,4,No,Point of Sale,5,Medium Density Fiberboard
+Coastal,High,8,Yes,Oil Storage,30,Stainless Steel 316
+Humid,Low,3,Yes,Hydroponics Frame,3,Aluminum 6061
+Dry,High,10,No,Missile Components,38,Titanium Grade 5
+Coastal,Medium,5,No,Revetment,13,Galvanized Steel
+Humid,Medium,6,Yes,Pool Liners,10,PVC
+Dry,Low,2,No,Theater Sets,1,Plywood
+Coastal,High,9,Yes,Ship Bulkheads,32,Stainless Steel 316
+Humid,High,7,No,Heat Treatment,21,Cast Iron
+Dry,Medium,5,Yes,Patio Covers,6,Polycarbonate
+Coastal,Low,4,No,Seaside Structures,5,Aluminum 6061
+Humid,Medium,6,Yes,Water Distribution,11,HDPE
+Dry,High,8,No,Industrial Presses,24,Carbon Steel
+Coastal,High,10,Yes,Salinity Gradient,36,Stainless Steel 316
+Humid,Low,3,Yes,Privacy Screens,3,Engineered Wood
+Dry,Medium,6,No,Machinery Frames,14,Carbon Steel
+Coastal,Medium,7,Yes,Boat Fenders,16,Stainless Steel 304
+Humid,High,8,No,Chemical Reactors,26,Stainless Steel 316
+Dry,Low,4,Yes,Display Models,1,ABS Plastic
+Coastal,High,9,Yes,Harbor Walls,28,Stainless Steel 316
+Humid,Medium,5,No,Research Lab,7,Ceramic
+Dry,High,7,No,Turbine Housings,19,Cast Iron
+Coastal,Low,6,Yes,Floating Walkways,11,Aluminum 6061
+Humid,High,9,Yes,Industrial Drainage,22,HDPE
+Dry,Medium,4,No,Retail Merchandising,4,Medium Density Fiberboard
+Coastal,High,8,Yes,Oil Refinery,29,Stainless Steel 316
+Humid,Low,3,Yes,Plant Growers,2,Aluminum 6061
+Dry,High,10,No,Aerospace Fasteners,37,Titanium Grade 5
+Coastal,Medium,5,No,Coastal Armor,12,Galvanized Steel
+Humid,Medium,6,Yes,Fluid Handling,9,PVC
+Dry,Low,2,No,Exhibition Graphics,1,Plywood
+Coastal,High,9,Yes,Ship Decks,31,Stainless Steel 316
+Humid,High,7,No,Melting Furnaces,20,Cast Iron
+Dry,Medium,5,Yes,Greenhouse Roofs,5,Polycarbonate
+Coastal,Low,4,No,Waterfront Features,4,Aluminum 6061
+Humid,Medium,6,Yes,Stormwater,10,HDPE
+Dry,High,8,No,Metal Stamping,23,Carbon Steel
+Coastal,High,10,Yes,Marine Current,35,Stainless Steel 316
+Humid,Low,3,Yes,Office Partitions,2,Engineered Wood
+Dry,Medium,6,No,Factory Automation,13,Carbon Steel
+Coastal,Medium,7,Yes,Boat Ladders,15,Stainless Steel 304
+Humid,High,8,No,Process Vessels,25,Stainless Steel 316
+Dry,Low,4,Yes,Prototype Parts,1,ABS Plastic
+Coastal,High,9,Yes,Port Facilities,27,Stainless Steel 316
+Humid,Medium,5,No,Laboratory,6,Ceramic
+Dry,High,7,No,Pump Bodies,18,Cast Iron
+Coastal,Low,6,Yes,Dock Floats,10,Aluminum 6061
+Humid,High,9,Yes,Chemical Lines,21,HDPE
+Dry,Medium,4,No,Store Fixtures,3,Medium Density Fiberboard
+Coastal,High,8,Yes,Petrochemical,28,Stainless Steel 316
+Humid,Low,3,Yes,Plant Supports,1,Aluminum 6061
+Dry,High,10,No,Satellite Frames,36,Titanium Grade 5
+Coastal,Medium,5,No,Shore Protection,11,Galvanized Steel
+Humid,Medium,6,Yes,Pool Equipment,8,PVC
+Dry,Low,2,No,Stage Design,1,Plywood
+Coastal,High,9,Yes,Ship Hull Plates,30,Stainless Steel 316
+Humid,High,7,No,Foundry Equipment,19,Cast Iron
+Dry,Medium,5,Yes,Sunrooms,4,Polycarbonate
+Coastal,Low,4,No,Marine Features,3,Aluminum 6061
+Humid,Medium,6,Yes,Water Management,9,HDPE
+Dry,High,8,No,Forging Equipment,22,Carbon Steel
+Coastal,High,10,Yes,Ocean Energy,34,Stainless Steel 316
+Humid,Low,3,Yes,Space Dividers,1,Engineered Wood
+Dry,Medium,6,No,Industrial Machines,12,Carbon Steel
+Coastal,Medium,7,Yes,Boat Hardware,14,Stainless Steel 304
+Humid,High,8,No,High-Pressure Vessels,24,Stainless Steel 316
+Dry,Low,4,Yes,Model Prototypes,1,ABS Plastic
+Coastal,High,9,Yes,Coastal Engineering,26,Stainless Steel 316
+Humid,Medium,5,No,Science Equipment,5,Ceramic
+Dry,High,7,No,Compressor Parts,17,Cast Iron
+Coastal,Low,6,Yes,Floating Docks,9,Aluminum 6061
+Humid,High,9,Yes,Industrial Piping,20,HDPE
+Dry,Medium,4,No,Display Stands,2,Medium Density Fiberboard
+Coastal,High,8,Yes,Offshore Oil,27,Stainless Steel 316
+Humid,Low,3,Yes,Hydroponic Setup,1,Aluminum 6061
+Dry,High,10,No,Rocket Bodies,35,Titanium Grade 5
+Coastal,Medium,5,No,Water Break,10,Galvanized Steel
+Humid,Medium,6,Yes,Fluid Systems,7,PVC
+Dry,Low,2,No,Set Construction,1,Plywood
+Coastal,High,9,Yes,Ship Superstructure,29,Stainless Steel 316
+Humid,High,7,No,Industrial Furnaces,18,Cast Iron
+Dry,Medium,5,Yes,Conservatory,3,Polycarbonate
+Coastal,Low,4,No,Seaside Features,2,Aluminum 6061
+Humid,Medium,6,Yes,Water Infrastructure,8,HDPE
+Dry,High,8,No,Metal Forming,21,Carbon Steel
+Coastal,High,10,Yes,Tidal Turbines,33,Stainless Steel 316
+Humid,Low,3,Yes,Office Screens,1,Engineered Wood
+Dry,Medium,6,No,Production Lines,11,Carbon Steel
+Coastal,Medium,7,Yes,Boat Accessories,13,Stainless Steel 304
+Humid,High,8,No,Chemical Processing,23,Stainless Steel 316
+Dry,Low,4,Yes,Design Models,1,ABS Plastic
+Coastal,High,9,Yes,Harbor Construction,25,Stainless Steel 316
+Humid,Medium,5,No,Lab Equipment,4,Ceramic
+Dry,High,7,No,Pump Systems,16,Cast Iron
+Coastal,Low,6,Yes,Marine Structures,8,Aluminum 6061
+Humid,High,9,Yes,Effluent Systems,19,HDPE
+Dry,Medium,4,No,Retail Display,1,Medium Density Fiberboard
+Coastal,High,8,Yes,Oil Platform,26,Stainless Steel 316
+Humid,Low,3,Yes,Plant Framework,1,Aluminum 6061
+Dry,High,10,No,Aircraft Structures,34,Titanium Grade 5
+Coastal,Medium,5,No,Coastal Defense,9,Galvanized Steel
+Humid,Medium,6,Yes,Pool Systems,6,PVC
+Dry,Low,2,No,Exhibition Setup,1,Plywood
+Coastal,High,9,Yes,Ship Construction,28,Stainless Steel 316
+Humid,High,7,No,Heavy Industry,17,Cast Iron
+Dry,Medium,5,Yes,Patio Enclosures,2,Polycarbonate
+Coastal,Low,4,No,Waterfront Design,1,Aluminum 6061
+Humid,Medium,6,Yes,Water Solutions,7,HDPE
+Dry,High,8,No,Metal Working,20,Carbon Steel
+Coastal,High,10,Yes,Ocean Power,32,Stainless Steel 316
+Humid,Low,3,Yes,Space Organization,1,Engineered Wood
+Dry,Medium,6,No,Manufacturing,10,Carbon Steel
+Coastal,Medium,7,Yes,Marine Components,12,Stainless Steel 304
+Humid,High,8,No,Process Equipment,22,Stainless Steel 316
+Dry,Low,4,Yes,Concept Design,1,ABS Plastic
+Coastal,High,9,Yes,Port Development,24,Stainless Steel 316
+Humid,Medium,5,No,Scientific Instruments,3,Ceramic
+Dry,High,7,No,Industrial Pumps,15,Cast Iron
+Coastal,Low,6,Yes,Floating Structures,7,Aluminum 6061
+Humid,High,9,Yes,Chemical Handling,18,HDPE
+Dry,Medium,4,No,Merchandising,1,Medium Density Fiberboard
+Coastal,High,8,Yes,Petroleum,25,Stainless Steel 316
+Humid,Low,3,Yes,Plant Structure,1,Aluminum 6061
+Dry,High,10,No,Space Technology,33,Titanium Grade 5
+Coastal,Medium,5,No,Shoreline,8,Galvanized Steel
+Humid,Medium,6,Yes,Fluid Control,5,PVC
+Dry,Low,2,No,Theater Production,1,Plywood
+Coastal,High,9,Yes,Naval Architecture,27,Stainless Steel 316
+Humid,High,7,No,Heavy Manufacturing,16,Cast Iron
+Dry,Medium,5,Yes,Solar Structures,1,Polycarbonate
+Coastal,Low,4,No,Marine Design,1,Aluminum 6061
+Humid,Medium,6,Yes,Water Network,6,HDPE
+Dry,High,8,No,Metal Fabrication,19,Carbon Steel
+Coastal,High,10,Yes,Blue Energy,31,Stainless Steel 316

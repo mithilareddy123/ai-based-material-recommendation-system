@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+mlflow
+matplotlib
+flask
+flask-cors
+requests
+ipykernel
+urllib3
+google-generativeai
+dotenv
