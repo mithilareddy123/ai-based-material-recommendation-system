@@ -91,7 +91,7 @@ npm run dev
 
 ## 🌍 Live Deployment
 
-* **Frontend**: [https://ai-based-material-recommendation-system.vercel.app/](https://ai-based-material-recommendation-system.vercel.app/)
+* **Frontend**: [https://ai-based-material-recommendation-system-xi.vercel.app/](https://ai-based-material-recommendation-system-xi.vercel.app/)
 * **Backend**: [https://ai-based-material-recommendation-system-69v7.onrender.com](https://ai-based-material-recommendation-system-69v7.onrender.com)
 
 ---
@@ -99,8 +99,9 @@ npm run dev
 ## Acknowledgements
 
 * Gemini API for intelligent analysis
-* Render for backend hosting
+* AWS EC2 for scalable backend hosting
 * Vercel for frontend deployment
 * MLflow for streamlined experiment tracking
 
 ---
+
