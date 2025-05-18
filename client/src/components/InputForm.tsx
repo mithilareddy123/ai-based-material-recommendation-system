@@ -20,37 +20,37 @@ const InputForm: React.FC<InputFormProps> = ({ onSubmit, isLoading }) => {
 
   const validateForm = (): boolean => {
     const newErrors: Partial<Record<keyof FormData, string>> = {};
-    
+
     if (!formData.budget || isNaN(Number(formData.budget)) || Number(formData.budget) <= 0) {
       newErrors.budget = 'Please enter a valid budget amount';
     }
-    
+
     if (!formData.environment) {
       newErrors.environment = 'Please select an environment';
     }
-    
+
     if (!formData.requiredStrength) {
       newErrors.requiredStrength = 'Please select required strength';
     }
-    
+
     if (!formData.durability || 
         isNaN(Number(formData.durability)) || 
         Number(formData.durability) < 1 || 
         Number(formData.durability) > 10) {
       newErrors.durability = 'Please enter a durability rating between 1-10';
     }
-    
+
     if (!formData.ecoFriendly) {
       newErrors.ecoFriendly = 'Please specify if eco-friendly is required';
     }
-    
+
     if (!formData.leadTime || 
         isNaN(Number(formData.leadTime)) || 
         Number(formData.leadTime) < 1 || 
         Number(formData.leadTime) > 45) {
       newErrors.leadTime = 'Please enter a lead time between 1-45 days';
     }
-    
+
     setErrors(newErrors);
     return Object.keys(newErrors).length === 0;
   };
@@ -58,8 +58,7 @@ const InputForm: React.FC<InputFormProps> = ({ onSubmit, isLoading }) => {
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
     setFormData(prev => ({ ...prev, [name]: value }));
-    
-    // Clear error when user makes a change
+
     if (errors[name as keyof FormData]) {
       setErrors(prev => ({ ...prev, [name]: undefined }));
     }
@@ -67,7 +66,7 @@ const InputForm: React.FC<InputFormProps> = ({ onSubmit, isLoading }) => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    
+
     if (validateForm()) {
       onSubmit(formData);
     }
@@ -146,7 +145,7 @@ const InputForm: React.FC<InputFormProps> = ({ onSubmit, isLoading }) => {
           {/* Durability */}
           <div className="space-y-2">
             <label htmlFor="durability" className="block text-sm font-medium text-gray-700">
-              Durability (1-9)
+              Durability (1-10)
             </label>
             <input
               type="number"
@@ -159,7 +158,7 @@ const InputForm: React.FC<InputFormProps> = ({ onSubmit, isLoading }) => {
               className={`block w-full px-3 py-2.5 rounded-lg border ${
                 errors.durability ? 'border-red-500 focus:ring-red-500' : 'border-gray-300 focus:ring-blue-500'
               } focus:border-blue-500 focus:ring-2 focus:ring-opacity-20 transition-all`}
-              placeholder="Enter durability (1-9)"
+              placeholder="Enter durability (1-10)"
             />
             {errors.durability && <p className="text-red-500 text-xs mt-1">{errors.durability}</p>}
           </div>
@@ -231,6 +230,12 @@ const InputForm: React.FC<InputFormProps> = ({ onSubmit, isLoading }) => {
             'Recommend Materials'
           )}
         </button>
+
+        {isLoading && (
+          <div className="text-sm text-gray-600 mt-2">
+            The backend is hosted on Render's free tier; the first request can take up to a minute to start. Thanks for your patience!
+          </div>
+        )}
       </div>
     </form>
   );
