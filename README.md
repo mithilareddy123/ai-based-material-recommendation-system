@@ -9,7 +9,7 @@ An end-to-end intelligent material recommendation platform that predicts suitabl
 - Predicts top 3 suitable materials from 22 options using machine learning.
 - Integrated with Gemini LLM for detailed analysis, cost comparison, and insights.
 - Tracked and logged experiments using MLflow.
-- Frontend deployed with **Vercel**, backend deployed with **Docker + AWS EC2**.
+- Frontend deployed with **Vercel**, backend deployed with **Render**.
 - Model, encoder, and scaler saved using `pickle` for reproducible inference.
 
 ---
@@ -89,31 +89,18 @@ npm run dev
 
 ---
 
-## Docker Deployment (Backend)
-
-```bash
-# Build image
-docker build -t material-recommender .
-
-# Run container
-docker run -d -p 8000:8000 material-recommender
-```
-
----
-
 ## 🌍 Live Deployment
 
 * **Frontend**: [https://ai-based-material-recommendation-system.vercel.app/](https://ai-based-material-recommendation-system.vercel.app/)
-* **Backend**: Hosted on Render
+* **Backend**: [https://ai-based-material-recommendation-system-69v7.onrender.com](https://ai-based-material-recommendation-system-69v7.onrender.com)
 
 ---
 
 ## Acknowledgements
 
 * Gemini API for intelligent analysis
-* AWS EC2 for scalable backend hosting
+* Render for backend hosting
 * Vercel for frontend deployment
 * MLflow for streamlined experiment tracking
 
 ---
-
